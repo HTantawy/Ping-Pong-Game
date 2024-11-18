@@ -47,7 +47,7 @@ This is a simple **Ping Pong Game** developed using the Python `turtle` graphics
 
 Here is a screenshot of the game in action:
 
-![Ping Pong Game Demo](ping_pong_demo.png)
+![Ping Pong Game Demo](ping pong photo.png)
 
 ## How to Run the Game
 
